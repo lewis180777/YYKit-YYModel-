@@ -1,0 +1,8 @@
+{
+    "name":"wangwu",
+    "age":"44",
+    "weight":"102.11",
+    "book":{
+        "bookName":"数学书"
+    }
+}

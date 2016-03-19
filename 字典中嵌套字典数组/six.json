@@ -1,0 +1,16 @@
+{
+    "name":"wangwu",
+    "age":"44",
+    "weight":"102.11",
+    "books":[
+                {"id":"111",
+                "bookName":"数学书",
+                "price":"100"},
+                {"id":"112",
+                "bookName":"Swift书",
+                "price":"120"},
+                {"id":"113",
+                "bookName":"Java书",
+                "price":"130"}
+    ]
+}

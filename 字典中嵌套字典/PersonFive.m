@@ -1,0 +1,13 @@
+//
+//  PersonFive.m
+//  YYKit-YYModel学习
+//
+//  Created by mac on 16/3/19.
+//  Copyright © 2016年 yxz. All rights reserved.
+//
+
+#import "PersonFive.h"
+
+@implementation PersonFive
+
+@end
